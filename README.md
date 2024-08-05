@@ -19,10 +19,10 @@ Learning
 </div>
 <br>
 <div align="center">
-  <a href="https://github.com/StaniukaitisPaula">
+  <a href="https://github.com/cristianrcaja">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cristianrcaja&theme=chartreuse_dark" />
   </a>
-  <a href="https://github.com/StaniukaitisPaula">
+  <a href="https://github.com/cristianrcaja">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cristianrcaja&theme=chartreuse_dark" />
   </a>
 </div>
